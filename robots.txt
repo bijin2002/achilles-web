@@ -1,0 +1,5 @@
+# nexhumanlabs.com
+User-agent: *
+Allow: /
+
+Sitemap: https://nexhumanlabs.com/sitemap.xml
